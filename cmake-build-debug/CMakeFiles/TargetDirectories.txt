@@ -1,0 +1,3 @@
+C:/Users/Fabricio.Cuadra/CLionProjects/Grados Celsius a Farenheit/cmake-build-debug/CMakeFiles/Grados_Celsius_a_Farenheit.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/Grados Celsius a Farenheit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/Grados Celsius a Farenheit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
